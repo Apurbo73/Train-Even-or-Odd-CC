@@ -1,4 +1,4 @@
-﻿# Train Even or Odd-CC
+﻿# Train Even or Odd CC
 
 
 
