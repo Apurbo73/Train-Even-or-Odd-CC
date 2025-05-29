@@ -1,4 +1,4 @@
-﻿# Train-Even-or-Odd-CC
+﻿# Train Even-or-Odd-CC
 
 
 This is a sequence of Git commands used to initialize a new Git repository, create a commit, and push it to a remote repository on GitHub. Here's a breakdown of each command:
