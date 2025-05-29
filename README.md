@@ -2,7 +2,6 @@
 
 
 
-Sure! Let's walk through the C++ code step-by-step and explain what it does:
 
 ---
 
