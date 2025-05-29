@@ -2,9 +2,7 @@
 
 
 
-
 ---
-
 ### ✅ **Purpose of the Code:**
 
 This program processes multiple test cases. For each test case, it:
@@ -151,4 +149,5 @@ int main()
 * The program calculates and compares the sum of elements at even vs odd positions for each test case.
 * It outputs the maximum of the two sums.
 
-Let me know if you'd like a version that uses `vector` or follows standard C++ more strictly!
+
+
