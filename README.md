@@ -149,5 +149,8 @@ int main()
 * The program calculates and compares the sum of elements at even vs odd positions for each test case.
 * It outputs the maximum of the two sums.
 
+This C++ program reads multiple test cases. For each test case, it takes an array of integers and calculates two sums: one for elements at even indices (representing "odd days") and one for elements at odd indices (representing "even days"). It then prints the larger of these two sums.
+
+The logic works by looping through the array and using the index to separate even and odd positions. After summing the values accordingly, it uses the `max` function to determine which sum is greater and prints that value for each test case.
 
 
